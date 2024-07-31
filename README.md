@@ -10,3 +10,7 @@ pip install -q -U python-dotenv google-generativeai
 - [Get started with the Gemini API](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python)
 - [Gemini API Pricing](https://ai.google.dev/pricing)
 - [Google Cloud Platform](https://console.cloud.google.com)
+
+## [Story](https://github.com/YasharHND/PythonDetectiveAI/blob/main/Story.md)
+
+## [Investigation](https://github.com/YasharHND/PythonDetectiveAI/blob/main/Investigation.md)

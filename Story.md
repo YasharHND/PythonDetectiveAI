@@ -29,3 +29,17 @@
 > The library was home to a rare and valuable collection of first-edition books. Among them was a book Mr. Caldwell kept in his study,
 > a prized possession that he never allowed anyone to touch. It was a book on ancient locks and keys,
 > which had a hidden compartment inside the spine containing a small key.
+
+### The Truth:
+
+> **The murderer was Professor Gregory Shaw.**
+> 
+> Professor Shaw had a dark secret from his past. Many years ago, he was involved in a scandal where he was accused of stealing a rare artifact from an archaeological dig.
+> The case was dismissed due to lack of evidence, but his reputation was tarnished. Mr. Caldwell, being an old friend, knew the truth and had hidden the artifact inside the library for safekeeping.
+> The key to the hidden compartment in the book in Caldwell’s study opened a small chest in the library where the artifact was kept.
+> 
+> That night, Professor Shaw went to the library with the intention of retrieving the artifact.
+> He knew Caldwell would never willingly give it to him, so he planned to steal the key.
+> When Caldwell caught him searching for the book, they argued, and in the heat of the moment, Shaw pushed Caldwell, who fell and hit his head on the corner of his desk, dying instantly.
+> Panicking, Shaw locked the study door from the inside using the key, exited through the study’s small window that led to the outside garden, and then locked the window from the outside with the same key.
+> He then returned to the library and cut his hand to make his alibi more believable.

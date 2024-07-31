@@ -1,30 +1,27 @@
 story = """
-In the quiet town of Ravenswood, a small community nestled deep in the forest, the peace was shattered one stormy night when the body of Mr. Henry Blackwood,
-the town’s wealthiest and most influential man, was found lifeless in his grand mansion.
-The town’s few inhabitants were shocked, but whispers began to circulate about who could have committed such a crime.
+Title: The Silent Library
 
-Three suspects quickly emerged, each with their own motives and secrets:
+Setting:
+In a small, isolated town nestled in the mountains, there stood an old, grand library known as the Bramblewood Library.
+It was a quiet place, where only the sound of pages turning could be heard. The library had been run by an elderly man, Mr. Adrian Caldwell, for over 40 years.
+One cold winter night, Mr. Caldwell was found dead in his study, a locked room within the library.
+There was no sign of forced entry, and the only way in or out was the door, which was locked from the inside.
 
-1. Evelyn Harper
-A sharp-witted woman in her late 30s, Evelyn had been Mr. Blackwood’s loyal secretary for over a decade.
-She was the one who managed his affairs and knew all his secrets. Lately, though, she had become distant,
-and there were rumors that she had been embezzling money from Mr. Blackwood’s accounts. Some believed she killed him to cover her tracks.
+Suspects:
+1.	Elena Rivers - A young and ambitious librarian, who recently started working at the Bramblewood Library.
+    She was eager to modernize the library and often clashed with Mr. Caldwell over his old-fashioned ways.
+    She was the last person seen entering Mr. Caldwell’s study earlier that evening.
+2.	Professor Gregory Shaw - A retired professor of history, a frequent visitor of the library, and a close friend of Mr. Caldwell.
+    He often spent hours in the library researching for his upcoming book. That night, he claimed to have been in the library’s rare book section,
+    far from the study. However, he was found with a cut on his hand, which he said he got from a book.
+3.	Henry Lang - A local businessman and a member of the library’s board, who had a hidden past.
+    He had a significant disagreement with Mr. Caldwell over a piece of land the library owned, which Henry wanted to buy. Mr. Caldwell refused,
+    and the tension between them had been growing for months. Henry was seen leaving the library shortly before the discovery of the body.
 
-2. Jonathan Blackwood
-Mr. Blackwood’s estranged nephew, Jonathan, had returned to Ravenswood just a few days before the murder.
-He had always been at odds with his uncle, especially after being cut out of the family will.
-Jonathan had been seen arguing with Mr. Blackwood on the night of the murder,
-and some speculated that he had returned to reclaim what he believed was rightfully his.
-
-3. Dr. Leonard Whitmore
-The town’s doctor and an old friend of Mr. Blackwood, Dr. Whitmore was known for his calm demeanor and trusted by all.
-However, it was no secret that Mr. Blackwood had been pressuring the doctor to invest in a dubious business venture.
-Some said Dr. Whitmore was being blackmailed, and with his reputation and livelihood at stake,
-he might have resorted to murder to free himself from Mr. Blackwood’s grasp.
-
-As the investigation unfolded, it became clear that Mr. Blackwood had been poisoned.
-The murder weapon—a vial of rare, lethal toxin—was found in Dr. Whitmore’s medical bag.
-All the evidence pointed toward him, but there was something off. Dr. Whitmore had no real motive to kill his friend, and his alibi was solid.
+The Hidden Clue:
+The library was home to a rare and valuable collection of first-edition books. Among them was a book Mr. Caldwell kept in his study,
+a prized possession that he never allowed anyone to touch. It was a book on ancient locks and keys,
+which had a hidden compartment inside the spine containing a small key.
 """
 
 detective_instruction = f"""

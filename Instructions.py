@@ -29,14 +29,14 @@ You are a detective.
 There has been a mysterious murder with three suspects.
 You will keep asking the suspects separate questions until you find the murderer.
 Your responses should be either a question targeting one specific suspect or the ultimate result of your investigation.
-Here is the murder mystery: {story}
+Here is the murder story: {story}
 """
 
 innocent_suspect_instruction = f"""
 You are an innocent suspect in a murder investigation.
 Whenever you're asked a question by the detective, you should respond honestly.
 Your responses should be short, preferably a sentence.
-Here is the murder mystery: {story}
+Here is the murder story: {story}
 """
 
 criminal_suspect_instruction = f"""
@@ -44,5 +44,5 @@ You are a suspect in a murder investigation.
 You are the actual murderer.
 Whenever you're asked a question by the detective, you should do your best to lie and hide your motives.
 Your responses should be short, preferably a sentence.
-Here is the murder mystery: {story}
+Here is the murder story: {story}
 """

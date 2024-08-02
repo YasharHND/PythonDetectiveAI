@@ -1,4 +1,3 @@
-import json
 import os
 import typing
 
@@ -9,7 +8,6 @@ import Instructions
 from Wrapper import Gemini
 
 load_dotenv()
-
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 
@@ -17,10 +15,6 @@ class DetectiveResponseSchema(typing_extensions.TypedDict):
     response_type: typing.Literal["QUESTION", "RESULT"]
     targeted_suspect: typing.Literal["Elena Rivers", "Professor Gregory Shaw", "Henry Lang"] | None
     content: str
-
-
-def detective_chat(user_message):
-    return json.loads(detective.chat(user_message))
 
 
 detective = Gemini(api_key=GOOGLE_API_KEY, system_instruction=Instructions.detective_instruction, response_schema=DetectiveResponseSchema)
@@ -34,7 +28,7 @@ suspects = {
     "Henry Lang": henry
 }
 
-detective_response = detective_chat("Start your investigation by asking the suspects your questions one by one.")
+detective_response = detective.chat("Start your investigation by asking the suspects your questions one by one.")
 while detective_response["response_type"] == "QUESTION":
     question = detective_response["content"]
     print(f"Detective: {question} ")
@@ -42,6 +36,6 @@ while detective_response["response_type"] == "QUESTION":
     targeted_suspect = suspects[suspect_name]
     suspect_answer = targeted_suspect.chat(question)
     print(f"{suspect_name}: {suspect_answer} ")
-    detective_response = detective_chat(suspect_answer)
+    detective_response = detective.chat(suspect_answer)
 else:
     print(f"Result: {detective_response['content']}")

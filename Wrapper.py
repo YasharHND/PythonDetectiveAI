@@ -23,5 +23,5 @@ class Gemini:
         self.session = generative_model.start_chat(history=[])
 
     def chat(self, user_message):
-        response = self.session.send_message(user_message).text
+        response = self.session.send_message(user_message).text.strip()
         return json.loads(response) if self.json_response else response

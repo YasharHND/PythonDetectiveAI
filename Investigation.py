@@ -31,11 +31,11 @@ suspects = {
 detective_response = detective.chat("Start your investigation by asking the suspects your questions one by one.")
 while detective_response["response_type"] == "QUESTION":
     question = detective_response["content"]
-    print(f"Detective: {question} ")
+    print(f"Detective: {question}")
     suspect_name = detective_response["targeted_suspect"]
     targeted_suspect = suspects[suspect_name]
     suspect_answer = targeted_suspect.chat(question)
-    print(f"{suspect_name}: {suspect_answer} ")
+    print(f"{suspect_name}: {suspect_answer}\n")
     detective_response = detective.chat(suspect_answer)
 else:
     print(f"Result: {detective_response['content']}")

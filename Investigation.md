@@ -1,36 +1,53 @@
-> **Detective**: Elena, you were the last one to see Mr. Caldwell alive. Tell me, what were you doing in his study earlier that evening?
+### Investigation:
 
-> **Elena Rivers**: I was returning some overdue books to Mr. Caldwell's study.
+> **Detective**: Elena, you were the last person to see Mr. Caldwell alive. What brought you to his study that evening?
+> 
+> **Elena Rivers**: I was there to return a book he had requested.
 
-> **Detective**: Did you notice anything unusual in the study, Elena? Anything out of place or perhaps an object that didn't belong?
+> **Detective**: Professor Shaw, you claim to have been in the rare book section. Can you tell me which specific book you were reading and what makes you remember it so clearly?
+> 
+> **Professor Gregory Shaw**: I was reading a first edition of "The Canterbury Tales" by Chaucer, a very well-worn copy with a beautiful inscription on the flyleaf.
 
-> **Elena Rivers**: No, everything seemed normal.
+> **Detective**: Henry, you were seen leaving the library shortly before Mr. Caldwell's body was discovered. What was your reason for being at the library so late, given your known disagreement with the victim?
+> 
+> **Henry Lang**: I was at the library to discuss a proposal for the library's expansion.
 
-> **Detective**: Professor Shaw, you mentioned being in the rare book section. Could you tell me which specific books you were reading that night?
+> **Detective**: Professor Shaw, you mentioned a well-worn copy of "The Canterbury Tales" with an inscription. Could you please describe the inscription to me?
+> 
+> **Professor Gregory Shaw**: I can't recall the exact wording, but it was a dedication to a former owner, possibly a family member. It was written in a beautiful, flowing script.
 
-> **Professor Gregory Shaw**: I was engrossed in a collection of 18th-century historical manuscripts.
+> **Detective**: Elena, you mentioned returning a book to Mr. Caldwell. Can you tell me which book it was?
+> 
+> **Elena Rivers**: It was a book on ancient Egyptian mythology.
 
-> **Detective**: Professor, you said you got that cut on your hand from a book. That's rather unusual, isn't it? Could you please show me the exact book that caused the injury?
+> **Detective**: Henry, you said you were at the library to discuss a proposal. Did this proposal have anything to do with the land dispute you had with Mr. Caldwell?
+> 
+> **Henry Lang**: No, the proposal was for a new wing to house the growing collection of books.
 
-> **Professor Gregory Shaw**: It was a very old book, with brittle pages and a sharp corner. It caught me by surprise as I was turning it. I'm sure I can find it again.
+> **Detective**: Elena, you had disagreements with Mr. Caldwell regarding the library's modernization. Did these disagreements ever escalate beyond professional arguments?
+> 
+> **Elena Rivers**: No, our disagreements were purely professional.
 
-> **Detective**: Professor, while I examine this book, can you please describe the location of this book within the rare books section? Be as specific as possible.
+> **Detective**: Professor Shaw, you mentioned a cut on your hand, claiming you got it from a book. Could you please show me this book?
+> 
+> **Professor Gregory Shaw**: I don't have the book with me, but I'm sure it's still in the rare book section.
 
-> **Professor Gregory Shaw**: It was on the top shelf, near the back of the section. You'll know it by its worn leather binding and a faded inscription on the cover. It's one of the oldest books in the collection.
+> **Detective**: Professor Shaw, I have examined the copy of "The Canterbury Tales" you mentioned. There are no loose pages or sharp edges that could have caused the cut on your hand. Care to explain this discrepancy?
+> 
+> **Professor Gregory Shaw**: I must have gotten the cut elsewhere. Perhaps while working in my garden earlier that day.
 
-> **Detective**: Henry, you were seen leaving the library shortly before Mr. Caldwell's body was discovered. Can you tell me what brought you to the library at that late hour?
+> **Detective**: Professor Shaw, your story has changed multiple times during this investigation. You were also found with an unexplained injury. This leads me to believe you are hiding something. Did you kill Mr. Caldwell?
+> 
+> **Professor Gregory Shaw**: I'm innocent. I wouldn't hurt a fly, let alone a dear friend like Mr. Caldwell.
 
-> **Henry Lang**: I went to the library to return a book I had borrowed.
+> **Detective**: Professor Shaw, your alibi doesn't hold up. The injury on your hand, your changing story about the book, and your close proximity to the rare book section where Mr. Caldwell kept his valuable first editions all point to your guilt. You knew about the hidden key in the book on ancient locks and keys.  You used that key to lock the study from the inside after killing Mr. Caldwell, didn't you?
+> 
+> **Professor Gregory Shaw**: I wouldn't know anything about any hidden key. I don't even remember what book I was looking at that night. The library is such a labyrinth, I'm sure I just got lost in the stacks.
 
-> **Detective**: Henry, what book was it that you needed to return so urgently at that hour? Surely it could have waited until morning?
+> **Detective**: You claim to be forgetful, yet you could vividly describe a non-existent inscription in detail. It seems your memory is selective, Professor. You killed Mr. Caldwell to get your hands on his valuable first-edition collection, didn't you?
+> 
+> **Professor Gregory Shaw**: My memory is just... faulty. The inscription wasn't on "The Canterbury Tales." I must have been thinking of another book.  I have no idea why you would think I'd kill someone over a collection of books.
 
-> **Henry Lang**: It was a book on local history. I needed to check a date for a business meeting I had the next morning.
+### Investigation Result
 
-> **Detective**: That's peculiar, Henry. The library records don't show you checking out any books on local history recently. Are you certain you returned it to the correct location?
-
-> **Henry Lang**: I'm sure I checked out a local history book. I always do when researching my business dealings. Perhaps the record was misplaced.
-
-### Result
-
-> Professor Shaw, that cut on your hand doesn't appear to be caused by a book. It looks more like the result of a struggle. You were familiar with the layout of the library and Mr. Caldwell's routines, weren't you? You
-> could have easily gotten access to the key hidden in his prized possession. Professor, I believe you are the one who murdered Mr. Caldwell.
+> Professor Shaw, your attempts to deflect blame are futile.  All the evidence points to you.  You are under arrest for the murder of Mr. Caldwell.

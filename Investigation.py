@@ -33,9 +33,9 @@ while detective_response["response_type"] == "QUESTION":
     question = detective_response["content"]
     print(f"Detective: {question}")
     suspect_name = detective_response["targeted_suspect"]
-    targeted_suspect = suspects[suspect_name]
-    suspect_answer = targeted_suspect.chat(question)
-    print(f"{suspect_name}: {suspect_answer}\n")
-    detective_response = detective.chat(suspect_answer)
+    suspect = suspects[suspect_name]
+    answer = suspect.chat(question)
+    print(f"{suspect_name}: {answer}\n")
+    detective_response = detective.chat(answer)
 else:
-    print(f"Result: {detective_response['content']}")
+    print(f"Investigation Result: {detective_response['content']}")
